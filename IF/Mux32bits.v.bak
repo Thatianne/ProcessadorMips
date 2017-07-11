@@ -1,0 +1,15 @@
+module Mux32bits(select, pc4 , jump);
+input select; 
+input [31:0] pc4,jump; 
+output reg [31:0] Out; 
+
+always@(select, pc4 , jump) 
+begin 
+  case(select) 
+      1'b0: 
+        Out <= pc4; 
+      1'b1: 
+        Out <= jump; 
+  endcase 
+end 
+endmodule 

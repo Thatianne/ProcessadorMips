@@ -1,0 +1,5 @@
+module IF();
+// entradas: endereço jump, endereço +4, select endereço, 
+// saída: instruçoes
+
+endmodule

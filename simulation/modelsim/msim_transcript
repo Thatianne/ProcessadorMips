@@ -1,0 +1,60 @@
+# Reading C:/altera/13.1/modelsim_ase/tcl/vsim/pref.tcl 
+# do ProcessadorMipsSD_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\altera\13.1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/IF {C:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/IF/MemInstruction.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module MemInstruction
+# 
+# Top level modules:
+# 	MemInstruction
+# vlog -vlog01compat -work work +incdir+C:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/IF {C:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/IF/Mux32bits.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Mux32bits
+# 
+# Top level modules:
+# 	Mux32bits
+# vlog -vlog01compat -work work +incdir+C:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/IF {C:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/IF/IF.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module IF
+# 
+# Top level modules:
+# 	IF
+# vlog -vlog01compat -work work +incdir+C:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD {C:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/Pc.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module Pc
+# 
+# Top level modules:
+# 	Pc
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/IF {C:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/IF/MemInstruction_TB.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module MemInstruction_TB
+# 
+# Top level modules:
+# 	MemInstruction_TB
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneiv_hssi_ver -L cycloneiv_pcie_hip_ver -L cycloneiv_ver -L rtl_work -L work -voptargs="+acc"  MemInstruction_TB
+# vsim -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneiv_hssi_ver -L cycloneiv_pcie_hip_ver -L cycloneiv_ver -L rtl_work -L work -voptargs=\"+acc\" -t 1ps MemInstruction_TB 
+# Loading work.MemInstruction_TB
+# Loading work.MemInstruction
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# PC = 00000000, Instruction = 8c030000
+# PC = 00000001, Instruction = 8c040001
+# PC = 00000002, Instruction = 8c050002
+# PC = 00000003, Instruction = 8c010002
+# PC = 00000004, Instruction = xxxxxxxx

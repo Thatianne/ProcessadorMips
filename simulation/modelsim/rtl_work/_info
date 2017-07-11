@@ -1,0 +1,110 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Thatianne\Documents\Faculdade\5Semestre\MISistemasDigitais\MI_SistemasDigitais\ProcessadorMipsSD\simulation\modelsim
+vIF
+I@;:ImS=b>6CFKibX<XDjB2
+V^C`FAhZ3XUJ4172b4f8[B1
+Z1 dC:\Users\Thatianne\Documents\Faculdade\5Semestre\MISistemasDigitais\MI_SistemasDigitais\ProcessadorMipsSD\simulation\modelsim
+w1499807381
+8C:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/IF/IF.v
+FC:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/IF/IF.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work +incdir+C:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/IF -O0
+n@i@f
+!i10b 1
+!s100 hT>98_PbP1A7RD4_8`?P90
+!s85 0
+!s108 1499807425.137000
+!s107 C:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/IF/IF.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/IF|C:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/IF/IF.v|
+!s101 -O0
+vMemInstruction
+ITJf69VcT`hWX=o:`5a3cY2
+VR;HSz=k@miSYXN=Q@T;f:3
+R1
+w1499806132
+8C:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/IF/MemInstruction.v
+FC:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/IF/MemInstruction.v
+L0 1
+R2
+r1
+31
+R3
+n@mem@instruction
+R4
+!i10b 1
+!s100 cORL1^LiV7:aW]lPJiTZ22
+!s85 0
+!s108 1499807423.744000
+!s107 C:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/IF/MemInstruction.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/IF|C:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/IF/MemInstruction.v|
+!s101 -O0
+vMemInstruction_TB
+!i10b 1
+!s100 QbD<OzzVmBL;S0Qd_WCM[3
+IU;bzBClM^9<iBcD8ie5<Z0
+VUD63mA>hE_Z4VQh[56b0:0
+R1
+w1499802498
+8C:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/IF/MemInstruction_TB.v
+FC:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/IF/MemInstruction_TB.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1499807425.815000
+!s107 C:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/IF/MemInstruction_TB.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/IF|C:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/IF/MemInstruction_TB.v|
+!s101 -O0
+R3
+R4
+n@mem@instruction_@t@b
+vMux32bits
+IC_JnUYG`EaDL:aOA=:h1<0
+VZPQ0FVOU56BV58Vc`TPVS0
+R1
+w1499805941
+8C:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/IF/Mux32bits.v
+FC:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/IF/Mux32bits.v
+L0 1
+R2
+r1
+31
+R3
+R4
+n@mux32bits
+!i10b 1
+!s100 Efj<SdkR:6_9QzMj4l>a60
+!s85 0
+!s108 1499807424.247000
+!s107 C:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/IF/Mux32bits.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/IF|C:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/IF/Mux32bits.v|
+!s101 -O0
+vPc
+ICX0<z;XeZeb<8fbJnId`a1
+VUzb1Y_jb?^Yo`Hfd]K_DY0
+R1
+w1499807102
+8C:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/Pc.v
+FC:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/Pc.v
+L0 1
+R2
+r1
+31
+R3
+n@pc
+!i10b 1
+!s100 Z]Zh2gnRhd?b>?WO_4=aZ2
+!s85 0
+!s108 1499807425.376000
+!s107 C:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/Pc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD|C:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD/Pc.v|
+!s101 -O0
+!s92 -vlog01compat -work work +incdir+C:/Users/Thatianne/Documents/Faculdade/5Semestre/MISistemasDigitais/MI_SistemasDigitais/ProcessadorMipsSD -O0
